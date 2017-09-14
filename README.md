@@ -13,4 +13,4 @@
 # Git教程
 6677
 branchB的内容
-wrong
+wrong-right
